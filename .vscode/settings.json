@@ -1,0 +1,10 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "particle.targetDevice": "Argon-Mesh-1",
+    "particle.firmwareVersion": "0.9.0",
+    "particle.targetPlatform": "argon",
+    "cortex-debug.openocdPath": "/Users/davidfry/.particle/toolchains/openocd/0.10.0-particle.1/bin/openocd"
+}
